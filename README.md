@@ -7,3 +7,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 ## Exercises
 
 - [Exercise 01: Unicode and raw strings](exercise_01/)
+- [Exercise 02: Iota constant enumeration](exercise_02/)
