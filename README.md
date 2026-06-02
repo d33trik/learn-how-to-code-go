@@ -11,3 +11,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 03: Byte size constants with iota](exercise_03/)
 - [Exercise 04: Variable declaration methods](exercise_04/)
 - [Exercise 05: Print values and types](exercise_05/)
+- [Exercise 06: Print integers in decimal, binary, and hex](exercise_06/)
