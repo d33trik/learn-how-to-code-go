@@ -13,3 +13,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 05: Print values and types](exercise_05/)
 - [Exercise 06: Print integers in decimal, binary, and hex](exercise_06/)
 - [Exercise 07: Fixed-size integer types](exercise_07/)
+- [Exercise 08: Constant and variable declaration](exercise_08/)
