@@ -16,3 +16,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 08: Constant and variable declaration](exercise_08/)
 - [Exercise 09: If, else if, and else statements](exercise_09/)
 - [Exercise 10: Switch statement](exercise_10/)
+- [Exercise 11: The init function](exercise_11/)
