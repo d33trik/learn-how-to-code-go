@@ -19,3 +19,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 11: The init function](exercise_11/)
 - [Exercise 12: The for loop](exercise_12/)
 - [Exercise 13: For as a while loop](exercise_13/)
+- [Exercise 14: Infinite for loop and break](exercise_14/)
