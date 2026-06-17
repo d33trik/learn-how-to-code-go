@@ -22,3 +22,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 14: Infinite for loop and break](exercise_14/)
 - [Exercise 15: For loop with continue](exercise_15/)
 - [Exercise 16: Nested for loops](exercise_16/)
+- [Exercise 17: Range over a slice](exercise_17/)
