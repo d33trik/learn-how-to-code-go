@@ -18,3 +18,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 10: Switch statement](exercise_10/)
 - [Exercise 11: The init function](exercise_11/)
 - [Exercise 12: The for loop](exercise_12/)
+- [Exercise 13: For as a while loop](exercise_13/)
