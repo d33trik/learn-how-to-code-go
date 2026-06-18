@@ -25,3 +25,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 17: Range over a slice](exercise_17/)
 - [Exercise 18: Range over a map](exercise_18/)
 - [Exercise 19: Comma-ok idiom for maps](exercise_19/)
+- [Exercise 20: If statement with initialization](exercise_20/)
