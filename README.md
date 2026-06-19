@@ -27,3 +27,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 19: Comma-ok idiom for maps](exercise_19/)
 - [Exercise 20: If statement with initialization](exercise_20/)
 - [Exercise 21: Array declaration with ellipsis](exercise_21/)
+- [Exercise 22: Slice literal and range](exercise_22/)
