@@ -30,3 +30,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 22: Slice literal and range](exercise_22/)
 - [Exercise 23: Array capacity and integer range](exercise_23/)
 - [Exercise 24: Slice index ranges](exercise_24/)
+- [Exercise 25: Appending to a slice](exercise_25/)
