@@ -32,3 +32,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 24: Slice index ranges](exercise_24/)
 - [Exercise 25: Appending to a slice](exercise_25/)
 - [Exercise 26: Delete from a slice](exercise_26/)
+- [Exercise 27: Slice length and capacity](exercise_27/)
