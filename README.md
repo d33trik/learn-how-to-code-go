@@ -36,3 +36,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 28: Slices of slices](exercise_28/)
 - [Exercise 29: Map with slice values](exercise_29/)
 - [Exercise 30: Add to a map](exercise_30/)
+- [Exercise 31: Delete from a map](exercise_31/)
