@@ -39,3 +39,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 31: Delete from a map](exercise_31/)
 - [Exercise 32: Word frequency with a map](exercise_32/)
 - [Exercise 33: Struct type declaration](exercise_33/)
+- [Exercise 34: Embedded struct types](exercise_34/)
