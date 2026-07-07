@@ -47,3 +47,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 39: Methods with value receivers](exercise_39/)
 - [Exercise 40: Interface implementation](exercise_40/)
 - [Exercise 41: Introduction to testing](exercise_41/)
+- [Exercise 42: Writing unit tests](exercise_42/)
