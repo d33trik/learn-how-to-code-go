@@ -43,3 +43,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 35: Anonymous struct](exercise_35/)
 - [Exercise 36: Function return values](exercise_36/)
 - [Exercise 37: Variadic functions](exercise_37/)
+- [Exercise 38: The defer statement](exercise_38/)
