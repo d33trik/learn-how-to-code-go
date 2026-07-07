@@ -46,3 +46,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 38: The defer statement](exercise_38/)
 - [Exercise 39: Methods with value receivers](exercise_39/)
 - [Exercise 40: Interface implementation](exercise_40/)
+- [Exercise 41: Introduction to testing](exercise_41/)
