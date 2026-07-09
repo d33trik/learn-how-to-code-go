@@ -49,3 +49,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 41: Introduction to testing](exercise_41/)
 - [Exercise 42: Writing unit tests](exercise_42/)
 - [Exercise 43: Mocking with interfaces](exercise_43/)
+- [Exercise 44: Anonymous function](exercise_44/)
