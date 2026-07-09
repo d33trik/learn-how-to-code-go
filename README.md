@@ -53,3 +53,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 45: Function expression](exercise_45/)
 - [Exercise 46: Function returning a function](exercise_46/)
 - [Exercise 47: Callback function](exercise_47/)
+- [Exercise 48: Closure](exercise_48/)
