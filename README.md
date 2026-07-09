@@ -51,3 +51,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 43: Mocking with interfaces](exercise_43/)
 - [Exercise 44: Anonymous function](exercise_44/)
 - [Exercise 45: Function expression](exercise_45/)
+- [Exercise 46: Function returning a function](exercise_46/)
