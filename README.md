@@ -56,3 +56,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 48: Closure](exercise_48/)
 - [Exercise 49: Function wrapper](exercise_49/)
 - [Exercise 50: Pointer basics](exercise_50/)
+- [Exercise 51: Pointer declaration and dereferencing](exercise_51/)
