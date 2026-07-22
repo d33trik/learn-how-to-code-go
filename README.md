@@ -62,3 +62,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 54: Marshaling structs to JSON](exercise_54/)
 - [Exercise 55: Unmarshaling JSON into structs](exercise_55/)
 - [Exercise 56: Streaming JSON with NewEncoder](exercise_56/)
+- [Exercise 57: Sorting slices with the sort package](exercise_57/)
