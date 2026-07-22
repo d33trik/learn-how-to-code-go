@@ -60,3 +60,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 52: Struct methods and interfaces](exercise_52/)
 - [Exercise 53: Pass by value vs pointer](exercise_53/)
 - [Exercise 54: Marshaling structs to JSON](exercise_54/)
+- [Exercise 55: Unmarshaling JSON into structs](exercise_55/)
