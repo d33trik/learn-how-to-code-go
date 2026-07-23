@@ -68,3 +68,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 60: WaitGroup and goroutine synchronization](exercise_60/)
 - [Exercise 61: Race conditions and the race detector](exercise_61/)
 - [Exercise 62: Mutex for race condition prevention](exercise_62/)
+- [Exercise 63: Atomic operations for race-free concurrency](exercise_63/)
