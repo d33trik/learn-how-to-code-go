@@ -1,22 +1,34 @@
 package main
 
-import (
-	"fmt"
-	"sync"
-)
+import "fmt"
+
+type person struct {
+	name string
+}
+
+func (p *person) speak() {
+	fmt.Println("My name is", p.name)
+}
+
+type human interface {
+	speak()
+}
+
+func saySomething(h human) {
+	h.speak()
+}
 
 func main() {
-	var wg sync.WaitGroup
+	p := person{"James"}
 
-	wg.Add(1)
-	go func() {
-		fmt.Println("foo")
-		wg.Done()
-	}()
+	// You CANNOT pass a value of type person into saySomething
+	// Cannot use p (variable of struct type Person) as Human value in argument to saySomething: Person does not implement Human (method speak has pointer receiver)
+	// saySomething(p)
 
-	wg.Go(func() {
-		fmt.Println("bar")
-	})
+	// You CAN pass a value of type *person into saySomething
+	saySomething(&p)
 
-	wg.Wait()
+	// p is a value, but Go automatically takes its address
+	// when calling a pointer receiver method on an addressable value
+	p.speak()
 }

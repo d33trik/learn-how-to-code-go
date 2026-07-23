@@ -1,3 +1,3 @@
-# WaitGroup and goroutine synchronization
+# Pointer receivers and interfaces
 
-This exercise demonstrates how to use `sync.WaitGroup` to coordinate multiple goroutines in Go. It covers manual `Add` and `Done` calls as well as the `Go` method, which simplifies goroutine lifecycle management by handling the counter automatically.
+This exercise demonstrates how methods with pointer receivers interact with interfaces in Go. It shows that a pointer is required to satisfy an interface when the method set includes pointer receivers, and that Go automatically takes the address of an addressable value when calling such methods directly.
