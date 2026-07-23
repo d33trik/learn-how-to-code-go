@@ -66,3 +66,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 58: Custom sorting with sort.Interface](exercise_58/)
 - [Exercise 59: Pointer receivers and interfaces](exercise_59/)
 - [Exercise 60: WaitGroup and goroutine synchronization](exercise_60/)
+- [Exercise 61: Race conditions and the race detector](exercise_61/)
