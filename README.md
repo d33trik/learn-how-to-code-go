@@ -67,3 +67,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 59: Pointer receivers and interfaces](exercise_59/)
 - [Exercise 60: WaitGroup and goroutine synchronization](exercise_60/)
 - [Exercise 61: Race conditions and the race detector](exercise_61/)
+- [Exercise 62: Mutex for race condition prevention](exercise_62/)
