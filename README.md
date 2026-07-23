@@ -65,3 +65,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 57: Sorting slices with the sort package](exercise_57/)
 - [Exercise 58: Custom sorting with sort.Interface](exercise_58/)
 - [Exercise 59: WaitGroup and goroutine synchronization](exercise_59/)
+- [Exercise 60: Pointer receivers and interfaces](exercise_60/)
