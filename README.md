@@ -71,3 +71,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 63: Atomic operations for race-free concurrency](exercise_63/)
 - [Exercise 64: Channels and goroutine communication](exercise_64/)
 - [Exercise 65: Buffered channels](exercise_65/)
+- [Exercise 66: Closing channels and ranging](exercise_66/)
