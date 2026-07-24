@@ -69,3 +69,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 61: Race conditions and the race detector](exercise_61/)
 - [Exercise 62: Mutex for race condition prevention](exercise_62/)
 - [Exercise 63: Atomic operations for race-free concurrency](exercise_63/)
+- [Exercise 64: Channels and goroutine communication](exercise_64/)
