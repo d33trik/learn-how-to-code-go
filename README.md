@@ -74,3 +74,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 66: Closing channels and ranging](exercise_66/)
 - [Exercise 67: Select statement for channel multiplexing](exercise_67/)
 - [Exercise 68: Comma-ok idiom for channels](exercise_68/)
+- [Exercise 69: Error handling with if err != nil](exercise_69/)
