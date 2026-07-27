@@ -77,3 +77,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 69: Error handling with if err != nil](exercise_69/)
 - [Exercise 70: Wrapping errors with fmt.Errorf](exercise_70/)
 - [Exercise 71: Creating custom errors with errors.New](exercise_71/)
+- [Exercise 72: Custom error types with struct methods](exercise_72/)
