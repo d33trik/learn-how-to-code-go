@@ -79,3 +79,4 @@ The goal of this repository is to practice Go fundamentals, track my progress, a
 - [Exercise 71: Creating custom errors with errors.New](exercise_71/)
 - [Exercise 72: Custom error types with struct methods](exercise_72/)
 - [Exercise 73: Writing package documentation](exercise_73/)
+- [Exercise 74: Tests, benchmarks, and examples](exercise_74/)
